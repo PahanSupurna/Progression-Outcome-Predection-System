@@ -1,7 +1,4 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion. 
-# Any code taken from other sources is referenced within my code soluƟon.
-# Student ID: w2052962
-# Date: 04.12.2023
+#PROGRESSION OUTCOME PREDICTION SYSTEM
 
 #import graphic module
 from graphics import *
